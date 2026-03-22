@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "name": "LifeJacket",
+  "baseLayer": "Deck1",
+  "overlayType": "point",
+  "iconPath": "files/images/lifejacket.jpg",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 175,
+        "IMO_sign": "Good",
+        "Belt": "Good"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2184,
+          624.666672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 178,
+        "IMO_sign": "Good",
+        "Belt": "Good"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132,
+          0
+        ]
+      }
+    }
+  ]
+}

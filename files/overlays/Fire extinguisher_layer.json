@@ -1,0 +1,57 @@
+{
+  "type": "FeatureCollection",
+  "name": "Fire extinguisher",
+  "baseLayer": "Deck1",
+  "overlayType": "point",
+  "iconPath": "files/images/fire exting.jpg",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 219,
+        "IMO_sign": "Good",
+        "Nozzle": "Good",
+        "Hose": "Good"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          168,
+          441.333344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 222,
+        "IMO_sign": "Good",
+        "Nozzle": "Good",
+        "Hose": "Good"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1936,
+          149.333344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 225,
+        "IMO_sign": "Good",
+        "Nozzle": "Good",
+        "Hose": "Good"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1072,
+          0
+        ]
+      }
+    }
+  ]
+}
